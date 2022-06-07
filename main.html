@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <script type="text/javascript" src="main.js"></script>
+
+    <script type="text/javascript" src="Minecraft/Anchor.js"></script>
+    <script type="text/javascript" src="Minecraft/CelestialBody.js"></script>
+    <script type="text/javascript" src="Minecraft/Creeper.js"></script>
+    <script type="text/javascript" src="Minecraft/Layers.js"></script>
+    <script type="text/javascript" src="Minecraft/Lighting.js"></script>
+
+    <script type="text/javascript" src="Minecraft/Minecraft.js"></script>
+
+
+
+</head>
+
+<body>
+<div id="container">
+
+    <div id="viewPanel">
+        <canvas id="canvas" tabindex="1"></canvas>
+    </div>
+
+    <div id="controlPanel">
+        <p id="rotationPeriodDisplay">Sun/moon rotation period: 300 seconds</p>
+        <input type="range" min="10" max="300" value="30" id="rotationPeriodControl">
+        <script>
+            var slider = document.getElementById("rotationPeriodControl");
+            var output = document.getElementById("rotationPeriodDisplay");
+            output.innerHTML = "Sun/moon rotation period: " + slider.value + " seconds";
+            slider.oninput = function() {
+                output.innerHTML = "Sun/moon rotation period: " + slider.value + " seconds";
+            }
+        </script>
+    </div>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

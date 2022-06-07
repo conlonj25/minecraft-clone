@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+#viewPanel {
+    flex:80%;
+    padding: 10px;
+    background-color: lightskyblue;
+}
+
+#viewPanel canvas{
+    width: 100%;
+    height: 100%;
+}
+
+#controlPanel {
+    margin: 5px;
+    flex:20%;
+    height: 20%;
+    background-color: lightgray;
+}
