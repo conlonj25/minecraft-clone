@@ -23,6 +23,6 @@ html, body {
 #controlPanel {
     margin: 5px;
     flex:20%;
-    height: 20%;
+    height: 30%;
     background-color: lightgray;
 }
