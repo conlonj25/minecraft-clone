@@ -6,6 +6,6 @@ It's an attempt at a browser-based clone of Minecraft. It is intended for entire
 
 Written almost entirely in Javascript. It requires nothing more than a web browser to run. Try it on your phone!
 
-<p align="center"><img src="/screenshots/screenshot1.png" alt="Screenshot 1" width="800" style="border-radius: 0.5em"/></p>
-<p align="center"><img src="/screenshots/screenshot2.png" alt="Screenshot 2" width="800" style="border-radius: 0.5em"/></p>
-<p align="center"><img src="/screenshots/screenshot3.png" alt="Screenshot 3" width="800" style="border-radius: 0.5em"/></p>
+<p align="center"><img src="/screenshots/screenshot1.png" alt="Screenshot 1" width="800"/></p>
+<p align="center"><img src="/screenshots/screenshot2.png" alt="Screenshot 2" width="800"/></p>
+<p align="center"><img src="/screenshots/screenshot3.png" alt="Screenshot 3" width="800"/></p>
