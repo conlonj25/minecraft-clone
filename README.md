@@ -6,6 +6,6 @@ It's an attempt at a browser-based clone of Minecraft. It is intended for entire
 
 Written almost entirely in Javascript. It requires nothing more than a web browser to run. Try it on your phone!
 
-<p align="center"><img src="/screenshots/screenshot1.png" alt="Screenshot 1" width="800"/></p>
-<p align="center"><img src="/screenshots/screenshot2.png" alt="Screenshot 2" width="800"/></p>
-<p align="center"><img src="/screenshots/screenshot3.png" alt="Screenshot 3" width="800"/></p>
+<p align="center"><img src="/screenshots/screenshot1.png" alt="Blocky player character stands on a grassy voxel platform, surrounded by cubic trees under a bright blue sky. The character is stationary, facing forward in the center of the scene. A crosshair is centered on the screen and a toolbar at the bottom displays selectable block types. No visible text is present. The environment is colorful and playful, evoking a cheerful and inviting atmosphere for exploration." width="800"/></p>
+<p align="center"><img src="/screenshots/screenshot2.png" alt="Blocky player character stands still on a grassy voxel platform in the center of the scene. The character is surrounded by cubic trees and a bright blue sky, with a crosshair centered on the screen and a toolbar at the bottom displaying selectable block types. No visible text is present. The environment is vibrant and playful, creating a cheerful and inviting atmosphere for exploration." width="800"/></p>
+<p align="center"><img src="/screenshots/screenshot3.png" alt="Blocky player character stands stationary on a grassy voxel platform at the center of the scene. The character is surrounded by cubic trees and a bright blue sky, creating a colorful and playful 3D environment. A crosshair is centered on the screen and a toolbar at the bottom displays selectable block types. There is no visible text present. The overall atmosphere is cheerful and welcoming, encouraging exploration." width="800"/></p>
